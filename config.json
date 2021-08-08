@@ -1,5 +1,6 @@
 {
 	"ip":"BRo0THER.aternos.me",
 	"port": "61425",
-	"name": "BROTHER-BOT",
+	"name": "afkbot1",
+	"auto-night-skip":"false"
 }
